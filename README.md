@@ -30,7 +30,7 @@
 
 <br>
 
-### Estatistica GIT
+### Estatísticas e Atividade
 
 <div align="center">
   <img src="https://img.shields.io/badge/TOTAL%20COMMITS-Ativo-051109?style=for-the-badge&logo=git&logoColor=00FF66&color=051109" alt="Commits" />
@@ -44,7 +44,7 @@
 
 <br>
 
-### Contato
+### Conecte-se Comigo
 
 <p align="center">
   <!-- INSTAGRAM -->
