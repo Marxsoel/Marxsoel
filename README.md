@@ -32,10 +32,11 @@
 
 ### Estatistica GIT
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marxsoel&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marxsoel&layout=compact&theme=gotham&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/TOTAL%20COMMITS-Ativo-051109?style=for-the-badge&logo=git&logoColor=00FF66&color=051109" alt="Commits" />
+  <img src="https://img.shields.io/badge/PRINCIPAL%20LANG-TypeScript%20%7C%20Python-051109?style=for-the-badge&logo=codeforces&logoColor=00FF66&color=051109" alt="Linguagens" />
+  <img src="https://img.shields.io/badge/STREAK-Em%20Evolu%C3%A7%C3%A3o-051109?style=for-the-badge&logo=github&logoColor=00FF66&color=051109" alt="Streak" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marxsoel&theme=gotham&hide_border=true" alt="GitHub Streak" />
