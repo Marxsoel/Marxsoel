@@ -33,12 +33,12 @@
 ### Estatistica GIT
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marxsoel&show_icons=true&theme=gotham&hide_border=true" alt="Stats do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marxsoel&layout=compact&theme=gotham&hide_border=true" alt="Linguagens mais usadas" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marxsoel&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marxsoel&layout=compact&theme=gotham&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marxsoel&theme=gotham&hide_border=true" alt="Streak de commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marxsoel&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br>
