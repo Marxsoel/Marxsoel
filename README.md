@@ -32,13 +32,14 @@
 
 ### Estatistica GIT
 
-<div align="center">
-  <p><i>Estatísticas em processamento pela rede...</i></p>
-  
-  <img src="https://img.shields.io/badge/TOTAL_COMMITS-100%2B-051109?style=for-the-badge&logo=git&logoColor=00FF66&color=051109" alt="Commits" />
-  <img src="https://img.shields.io/badge/REPOSITORIES-ACTIVE-051109?style=for-the-badge&logo=github&logoColor=00FF66&color=051109" alt="Repos" />
-  <img src="https://img.shields.io/badge/UPTIME-99.9%25-051109?style=for-the-badge&logo=linux&logoColor=00FF66&color=051109" alt="Uptime" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marxsoel&show_icons=true&theme=gotham&hide_border=true" alt="Stats do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marxsoel&layout=compact&theme=gotham&hide_border=true" alt="Linguagens mais usadas" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marxsoel&theme=gotham&hide_border=true" alt="Streak de commits" />
+</p>
 
 <br>
 
