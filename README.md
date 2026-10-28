@@ -9,14 +9,15 @@
 
 <br>
 
-### 💻 // sobre.mim
+### Sobre Mim
+
 - **Formação:** Graduando em Engenharia de Software na Universidade Estácio de Sá.
 - **Foco técnico:** Arquitetura de sistemas, infraestrutura em nuvem, servidores VPS e automação inteligente.
 - **Abordagem:** Desenvolvimento de soluções limpas, escaláveis e focadas em performance e estabilidade.
 
 <br>
 
-### 🛠️ // stack.tecnológica
+### Stack Tecnológica
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -29,7 +30,7 @@
 
 <br>
 
-### 📊 // estatisticas.git
+### Estatistica GIT
 
 <p align="center">
   <img height="185px" src="https://github-readme-stats.vercel.app/api?username=Marxsoel&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -42,7 +43,7 @@
 
 <br>
 
-### 📡 // contato.rede
+### Contato
 
 <p align="center">
   <!-- INSTAGRAM -->
